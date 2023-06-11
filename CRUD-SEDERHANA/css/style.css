@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: brown;
+}
+input[type=text]{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(196, 218, 233);
+    text-align: center;
+}
